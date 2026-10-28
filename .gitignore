@@ -1,0 +1,17 @@
+# Ferramentas e builds do Dart/Flutter (gerados automaticamente)
+.dart_tool/
+build/
+.packages
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Pastas de plataforma do Flutter (este branch é só Dart puro)
+android/
+ios/
+macos/
+linux/
+windows/
+web/
